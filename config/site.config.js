@@ -52,12 +52,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/moucou/onedrive-vercel-index',
+      name: 'Twitter',
+      link: 'https://twitter.com/zhishilinghu',
     },
     {
-      name: 'Twitter',
-      link: 'https://t.me/realSpencerWoo',
+      name: 'Github',
+      link: 'https://github.com/moucou/onedrive-vercel-index',
     },
   ],
 
